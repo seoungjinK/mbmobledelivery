@@ -1,4 +1,4 @@
-영상처리 및 인공신경망 기반 스마트 디팔렛타이저
+## 영상처리 및 인공신경망 기반 스마트 디팔렛타이저
 
 Smart Depalletizing System based on AI Vision & Neural Networks
 
