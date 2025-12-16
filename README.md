@@ -1,6 +1,6 @@
-## 영상처리 및 인공신경망 기반 스마트 디팔렛타이저
+# 영상처리 및 인공신경망 기반 스마트 디팔렛타이저
 
-Smart Depalletizing System based on AI Vision & Neural Networks
+## Smart Depalletizing System based on AI Vision & Neural Networks
 
 프로젝트 개요 (Overview)
 
@@ -55,7 +55,7 @@ AI 비전 분석
 
 • 작업 상태, 분류 현황, 기기 상태 실시간 시각화
 
-기술 스택 (Tech Stack)
+# 기술 스택 (Tech Stack)
 
 🔹 Environment & Tools
 
@@ -87,7 +87,7 @@ Communication: Socket.IO (Real-time)
 
 Database: SQLite
 
-시스템 흐름도 (System Architecture)
+# 시스템 흐름도 (System Architecture)
 
 아래 영역에 실제 이미지 파일을 업로드해주세요.
 
@@ -99,7 +99,7 @@ Database: SQLite
 
 4. 개발 일정 (Gantt Chart)
 
-🚀 기대 효과 (Expected Effect)
+# 기대 효과 (Expected Effect)
 
 작업 속도 극대화: 자동화된 분류 및 적재 프로세스 도입
 
