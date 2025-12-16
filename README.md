@@ -23,7 +23,15 @@
 
 상세 내용
 
- 자동 감지 & 캡처
+1. 시스템 아키텍쳐
+> ![아키텍쳐](image/아키텍쳐.png)
+
+2. 통신 구조
+> ![통신구조](image/통신.png)
+
+
+
+자동 감지 & 캡처
 
 • 로드셀이 택배 무게 감지 시 자동 무게 측정
 
@@ -92,12 +100,30 @@ Database: SQLite
 아래 영역에 실제 이미지 파일을 업로드해주세요.
 
 1. 하드웨어 구성도 (Hardware Flow)
+> ![하드웨어 흐름도](image/하드웨어흐름도.png)
 
 2. 전체 애플리케이션 흐름도 (Application Flow)
-
+> ![어플 흐름도](image/어플흐름도.png)
 3. WPF 모니터링 시스템 구조 (WPF Flow)
-
+> ![wpf 흐름도](image/wpf흐름도.png)
 4. 개발 일정 (Gantt Chart)
+
+# 하드웨어 (System H/W)
+
+1. 디팔렛타이저
+> ![디팔렛](image/디팔렛.png)
+
+2. AGV
+> ![디팔렛](image/agv구구.png)
+
+# YOLO학습결과
+
+1. mAP50-90
+> ![yolo](image/yolo.png)
+
+2. 전체 결과
+> ![YOLO검수](image/YOLO검수.png)
+
 
 # 기대 효과 (Expected Effect)
 
