@@ -114,7 +114,7 @@ Database: SQLite
 > ![디팔렛](image/디팔렛.png)
 
 2. AGV
-> ![디팔렛](image/agv구구.png)
+> ![디팔렛](image/avg구구.png)
 
 # YOLO학습결과
 
