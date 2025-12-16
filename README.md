@@ -30,11 +30,9 @@
 > ![통신구조](image/통신.png)
 
 
-
 자동 감지 & 캡처
 
 • 로드셀이 택배 무게 감지 시 자동 무게 측정
-
 
 
 • 상·좌·우 카메라가 동기화되어 박스 이미지 캡처 시작
@@ -133,4 +131,120 @@ Database: SQLite
 
 작업 안전화: 고중량 반복 작업의 자동화로 작업자 안전 확보
 
-📬 Contact
+## 🎥 시연 영상 (Demo Video)
+
+> 아래 이미지를 클릭하면 프로젝트 시연 영상을 유튜브에서 확인할 수 있습니다.
+
+[![대쉬보드](./image/대쉬보드 Flask ↔ C# WPF (Socket.IO) 통신
+
+
+
+• 작업 상태, 분류 현황, 기기 상태 실시간 시각화
+
+# 기술 스택 (Tech Stack)
+
+🔹 Environment & Tools
+
+IDE: Visual Studio, Visual Studio Code
+
+Collaboration: GitHub
+
+Dataset: Roboflow
+
+🔹 AI & Vision
+
+Language: Python
+
+Model: YOLO (Object Detection)
+
+Libraries: OpenCV, PyTorch
+
+🔹 Application & Control
+
+Frontend: C# (WPF)
+
+Hardware: Arduino (Sensor & Motor Control)
+
+🔹 Backend & Data
+
+Server: Flask (Python)
+
+Communication: Socket.IO (Real-time)
+
+Database: SQLite
+
+# 시스템 흐름도 (System Architecture)
+
+아래 영역에 실제 이미지 파일을 업로드해주세요.
+
+1. 하드웨어 구성도 (Hardware Flow)
+> ![하드웨어 흐름도](image/하드웨어흐름도.png)
+
+2. 전체 애플리케이션 흐름도 (Application Flow)
+> ![어플 흐름도](image/어플흐름도.png)
+3. WPF 모니터링 시스템 구조 (WPF Flow)
+> ![wpf 흐름도](image/wpf흐름도.png)
+4. 개발 일정 (Gantt Chart)
+
+# 하드웨어 (System H/W)
+
+1. 디팔렛타이저
+> ![디팔렛](image/디팔렛.png)
+
+2. AGV
+> ![디팔렛](image/avg구구.png)
+
+# YOLO학습결과
+
+1. mAP50-90
+> ![yolo](image/yolo.png)
+
+2. 전체 결과
+> ![YOLO검수](image/YOLO검수.png)
+
+# 어플
+
+1. 택배 접수
+> ![yolo](image/어플2.png)
+
+2. 택배 조회
+> ![YOLO검수](image/어플.png)
+
+
+# WPF
+
+1. 로그인
+> ![yolo](image/wpflogin.png)
+
+2. 대쉬보드
+> ![YOLO검수](image/대쉬보드.png)
+
+3. 검수창
+> ![YOLO검수](image/검수결과.png)
+
+4. 다양한 불량 사례
+>![YOLO검수](image/검수결과2.png)
+
+5. 불량조회
+>![YOLO검수](image/4.png)
+
+6. AGV팔레트
+>![YOLO검수](image/5.png)
+
+6. 오류로그
+>![YOLO검수](image/6.png)
+
+
+# 기대 효과 (Expected Effect)
+
+작업 속도 극대화: 자동화된 분류 및 적재 프로세스 도입
+
+분류 정밀화: AI 비전 검사를 통한 휴먼 에러 감소 및 오분류 방지
+
+작업 안전화: 고중량 반복 작업의 자동화로 작업자 안전 확보
+
+## 🎥 시연 영상 (Demo Video)
+
+> 아래 이미지를 클릭하면 프로젝트 시연 영상을 유튜브에서 확인할 수 있습니다.
+
+[![대쉬보드](./image/대쉬보드.png)](https://youtu.be/KqecQXACcCw)
