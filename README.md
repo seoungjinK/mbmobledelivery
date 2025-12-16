@@ -2,7 +2,7 @@
 
 ## Smart Depalletizing System based on AI Vision & Neural Networks
 
-프로젝트 개요 (Overview)
+#프로젝트 개요 (Overview)
 
  개발 배경
 
